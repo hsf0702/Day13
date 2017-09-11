@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_下载管理器/1_下载管理器.iml" filepath="$PROJECT_DIR$/1_下载管理器/1_下载管理器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_多线程断点下载/2_多线程断点下载.iml" filepath="$PROJECT_DIR$/2_多线程断点下载/2_多线程断点下载.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_短信发送器/3_短信发送器.iml" filepath="$PROJECT_DIR$/3_短信发送器/3_短信发送器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_新闻客户端/5_新闻客户端.iml" filepath="$PROJECT_DIR$/5_新闻客户端/5_新闻客户端.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day13.iml" filepath="$PROJECT_DIR$/Day13.iml" />
+    </modules>
+  </component>
+</project>
